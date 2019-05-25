@@ -1,0 +1,16 @@
+#no-padding{
+
+}
+.image-back{
+    height: 550px;
+    width:100%;
+    background-image: url('/assets/3b1b.jpeg');
+}
+
+#myForm{
+    padding: 50px;
+}
+
+.center{
+    text-align: center;
+}
